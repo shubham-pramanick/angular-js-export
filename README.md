@@ -1,2 +1,7 @@
 # angular-js-export
-angularjs export in excel
+Export in excel as an angular directive using 
+
+xlsx.js
+jszip.js
+FileSaver.js
+
